@@ -1,1 +1,2 @@
-# Linux-Mining
+# Solo mining on Linux
+## Check Wiki!
